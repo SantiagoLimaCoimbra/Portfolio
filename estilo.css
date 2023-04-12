@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 0 auto;
+    border-color: brown;
+  }
+
+  .proj {
+    border-color: brown;
+  }
+  .info {
+    border-color: brown;
+  }
+
+.container-projs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    background-color: beige;
+  }
