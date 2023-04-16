@@ -32,7 +32,7 @@ Game no estilo arcade desenvolvino em game jan com o tema "meio ambiente", inspi
 <br>
 
 ### Meteorite Woman
-info info info
+Meteorite Woman foi desenvolvido para uma game jan com o tema de herois, feito de forma top down, nele, você precisa proteger a cidade arrasada por ordas de dinossauros.
 
 ![Gameplay](/midia/meteoriteWoman/M_Hprint4.png)
 
