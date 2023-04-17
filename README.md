@@ -8,7 +8,6 @@
 Este portifolio ainda está em desenvolvimento, mas é possivel visualizar os projetos contidos nele logo abaixo.
 
 -   -   -   
-<br>
 
 ## JOGOS:
 
