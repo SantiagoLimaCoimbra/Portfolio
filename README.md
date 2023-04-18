@@ -30,10 +30,6 @@ Game no estilo arcade desenvolvino para uma game jan com o tema "meio ambiente",
 
 Este game foi desenvolvido em 2019 utilizando a engine Construct 2 e a ferramenta Piskel.
 
-<div align="center">
-    <img src="midia/DestructionOfMoney/D_O_Mprint2.png" title="Gameplay"/>
-<div>
-
 ![Gameplay](/midia/DestructionOfMoney/D_O_Mprint2.png)
 
 >Video com gameplay: [Destruction of Money](https://youtu.be/Pf3BLGn1sBU)
@@ -46,9 +42,6 @@ Meteorite Woman foi desenvolvido em uma game jan com o tema de herois, feito de 
 Este game foi desenvolvido em 2018 utilizando a engine Construct 2 e a ferramenta Piskel.
 
 ![Gameplay](/midia/meteoriteWoman/M_Hprint4.png)
-<div align="center">
-    <img src="midia/meteoriteWoman/M_Hprint4.png" title="Gameplay"/>
-<div>
 
 >Video com gameplay: [Meteorite Woman](https://youtu.be/1_pf-QwkM3I)
 
@@ -62,17 +55,24 @@ Tive a oportunidade de desenvolver na Pixeon um Style Guide e um UI Kit para a n
 
 Este foi um dos maiores projetos que já fiz, pois aprendi muitos conceitos de design e acessibilidade, além de aprender a utilizar o Figma.
 
-< imagens >
+UI Kit:
+![UI Kit - Visão geral](/midia/DS/ui5.png)
+![UI Kit - Componentes](/midia/DS/ui1.png)
+![UI Kit - Componentes](/midia/DS/ui2.png)
 
+Style Guide:<br>
+![Style Guide - Visão geral](/midia/DS/sg1.png)
+![Style Guide - Visão geral](/midia/DS/sg2.png)
+![Style Guide - Visão geral](/midia/DS/sg3.png)
 
 ### Galeria de Arte - SA
 
 A Galeria de Arte online foi um trabalho realizado no curso técinico como uma situação de aprendizagem(SA), neste trabalho pude juntar os conhecimentos de front-end e back-end adiquiridos até aquele momento.
 
-< imagens >
+A funcionalidade de poder salvar imagens não foi implementada e o serviçõ de hospedagem não está mais disponivel, porem, este é um dos trabalhos em que mais tenho orgulho de ter feito.
 
-<img src="midia/DS/ui5.png"/>
+Imagens:
+![SA](/midia/SA/soamigoC1.png)
+![SA](/midia/SA/soamigoC2.png)
+![SA](/midia/SA/soamigoC3.png)
 
-<div align="center">
-    <img src="midia/DS/ui5.png" title=""/>
-<div>
