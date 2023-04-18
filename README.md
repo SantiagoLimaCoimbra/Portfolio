@@ -5,7 +5,10 @@
     <p align="center">Portifolio 2023</p>
 </h2>
 
-Este portifolio ainda está em desenvolvimento, mas é possivel visualizar os projetos contidos nele logo abaixo.
+Olá, sou o Santiago, um aspirante a desenvolvedor de jogos :) 
+
+Atualmente esto cursando o 3º semestre do tecnologo em Analise e desenvolvimento de sistemas.
+Este portifolio ainda está em desenvolvimento, mas é possivel visualizar alguns jogos e projetos em que participei e desenvolvi logo abaixo.
 
 -   -   -   
 
