@@ -72,7 +72,7 @@ Style Guide:<br>
 
 A Galeria de Arte online foi um trabalho realizado no curso técinico como uma situação de aprendizagem(SA), neste trabalho pude juntar os conhecimentos de front-end e back-end adiquiridos até aquele momento.
 
-A funcionalidade de poder salvar imagens não foi implementada e o serviçõ de hospedagem não está mais disponivel, porem, este é um dos trabalhos em que mais tenho orgulho de ter feito.
+A funcionalidade de poder salvar imagens não foi implementada e o serviço de hospedagem não está mais disponivel, porem, este é um dos trabalhos em que mais tenho orgulho de ter feito.
 
 Imagens:
 ![SA](/midia/SA/soamigoC1.png)
