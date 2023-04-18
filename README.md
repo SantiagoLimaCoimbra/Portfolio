@@ -30,6 +30,10 @@ Game no estilo arcade desenvolvino para uma game jan com o tema "meio ambiente",
 
 Este game foi desenvolvido em 2019 utilizando a engine Construct 2 e a ferramenta Piskel.
 
+<div align="center">
+    <img src="midia/DestructionOfMoney/D_O_Mprint2.png" title="Gameplay"/>
+<div>
+
 ![Gameplay](/midia/DestructionOfMoney/D_O_Mprint2.png)
 
 >Video com gameplay: [Destruction of Money](https://youtu.be/Pf3BLGn1sBU)
@@ -42,9 +46,13 @@ Meteorite Woman foi desenvolvido em uma game jan com o tema de herois, feito de 
 Este game foi desenvolvido em 2018 utilizando a engine Construct 2 e a ferramenta Piskel.
 
 ![Gameplay](/midia/meteoriteWoman/M_Hprint4.png)
+<div align="center">
+    <img src="midia/meteoriteWoman/M_Hprint4.png" title="Gameplay"/>
+<div>
 
 >Video com gameplay: [Meteorite Woman](https://youtu.be/1_pf-QwkM3I)
 
+<br>
 
 ## PROJETOS
 
@@ -62,3 +70,9 @@ Este foi um dos maiores projetos que já fiz, pois aprendi muitos conceitos de d
 A Galeria de Arte online foi um trabalho realizado no curso técinico como uma situação de aprendizagem(SA), neste trabalho pude juntar os conhecimentos de front-end e back-end adiquiridos até aquele momento.
 
 < imagens >
+
+<img src="midia/DS/ui5.png"/>
+
+<div align="center">
+    <img src="midia/DS/ui5.png" title=""/>
+<div>
