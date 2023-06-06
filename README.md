@@ -2,7 +2,7 @@
     <p align="center">SANTIAGO COIMBRA</p>
 </h1>
 <h2 aling="center">
-    <p align="center">Portifolio 2023</p>
+    <p align="center">Portfolio 2023</p>
 </h2>
 
 Olá, sou o Santiago, um aspirante a desenvolvedor de jogos :) 
